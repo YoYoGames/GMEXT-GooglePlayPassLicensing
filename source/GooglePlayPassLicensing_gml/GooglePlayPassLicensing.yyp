@@ -1,0 +1,47 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "GooglePlayPassLicensing",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GooglePlayPassLicensing Demo","folderPath":"folders/GooglePlayPassLicensing Demo.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GooglePlayPassLicensing","folderPath":"folders/GooglePlayPassLicensing.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"YoYo Extensions Assets","folderPath":"folders/YoYo Extensions Assets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Font","folderPath":"folders/YoYo Extensions Assets/Font.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/YoYo Extensions Assets/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/YoYo Extensions Assets/Sprites.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.2.1.75",
+  },
+  "resources": [
+    {"id":{"name":"Spr_YoYo_button","path":"sprites/Spr_YoYo_button/Spr_YoYo_button.yy",},},
+    {"id":{"name":"Font_YoYo_20","path":"fonts/Font_YoYo_20/Font_YoYo_20.yy",},},
+    {"id":{"name":"Obj_YoYo_button","path":"objects/Obj_YoYo_button/Obj_YoYo_button.yy",},},
+    {"id":{"name":"Spr_YoYo_Background","path":"sprites/Spr_YoYo_Background/Spr_YoYo_Background.yy",},},
+    {"id":{"name":"Obj_YoYo_textbox","path":"objects/Obj_YoYo_textbox/Obj_YoYo_textbox.yy",},},
+    {"id":{"name":"Font_YoYo_30","path":"fonts/Font_YoYo_30/Font_YoYo_30.yy",},},
+    {"id":{"name":"Obj_GooglePlayPassLicensing","path":"objects/Obj_GooglePlayPassLicensing/Obj_GooglePlayPassLicensing.yy",},},
+    {"id":{"name":"Spr_YoYo_textbox","path":"sprites/Spr_YoYo_textbox/Spr_YoYo_textbox.yy",},},
+    {"id":{"name":"Font_YoYo_15","path":"fonts/Font_YoYo_15/Font_YoYo_15.yy",},},
+    {"id":{"name":"Room_GooglePlayPassLicensing","path":"rooms/Room_GooglePlayPassLicensing/Room_GooglePlayPassLicensing.yy",},},
+    {"id":{"name":"Obj_YoYo_text","path":"objects/Obj_YoYo_text/Obj_YoYo_text.yy",},},
+    {"id":{"name":"GooglePlayPassLicensing","path":"extensions/GooglePlayPassLicensing/GooglePlayPassLicensing.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room_GooglePlayPassLicensing","path":"rooms/Room_GooglePlayPassLicensing/Room_GooglePlayPassLicensing.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

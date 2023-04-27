@@ -1,0 +1,3 @@
+status = ""
+GooglePlayPassLicensing_CheckLicense();
+	
