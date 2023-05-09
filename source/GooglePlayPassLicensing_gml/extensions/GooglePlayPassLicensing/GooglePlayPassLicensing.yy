@@ -18,7 +18,7 @@
   "date": "2021-05-08T03:13:08.4469513+01:00",
   "description": "",
   "exportToGame": true,
-  "extensionVersion": "1.0.0",
+  "extensionVersion": "1.1.0",
   "files": [
     {"resourceType":"GMExtensionFile","resourceVersion":"1.0","name":"","constants":[
         {"resourceType":"GMExtensionConstant","resourceVersion":"1.0","name":"GooglePlayPassLicensing_Licensed","hidden":false,"value":"\"LICENSED\"",},
