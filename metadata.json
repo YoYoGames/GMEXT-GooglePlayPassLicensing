@@ -1,0 +1,14 @@
+[
+    {
+        "projectFile": "source/Firebase_gml/Firebase.yyp",
+        "extensionFile": "source/GooglePlayPassLicensing_gml/extensions/GooglePlayPassLicensing/GooglePlayPassLicensing.yy",
+        "packageId": null,
+        "packageName": "Google Play Pass Licensing Ext",
+        "packageVersion": "1.1.0",
+        "includeFolders": null,
+        "includeResources": null,
+        "excludeFolders": null,
+        "excludeResources": null,
+        "format": "LTS22"
+    }
+]
