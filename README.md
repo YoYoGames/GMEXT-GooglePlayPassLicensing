@@ -5,11 +5,11 @@ This repository was created with the intent of presenting users with the latest 
 
 This extension will work on Android only.
 
-# Requirements
+## Requirements
 
 To use this extension, you must first be accepted onto the Play Pass Licensing program. This will grant you access to the SDKs required to utilize the extension.
 
-# Documentation
+## Documentation
 
 * Check [the documentation](../../wiki)
 
