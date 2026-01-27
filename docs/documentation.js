@@ -35,6 +35,7 @@ function GooglePlayPassLicensing_CheckLicense() {}
  * 
  * By using this extension, you can verify whether a particular user has subscribed to Google Play Pass.
  * @section_func
+ * @desc The following function can be used to check a license:
  * @ref GooglePlayPassLicensing_CheckLicense
  * @section_end
  * @module_end
