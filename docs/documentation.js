@@ -2,26 +2,26 @@
 
 /** 
  * @func GooglePlayPassLicensing_CheckLicense
- * @desc Use this functio to check if the current user is licensed or not. If the user is not subscribed a paywall will be shown so they can subscribe.
+ * @desc Use this function to check if the current user is licensed or not. If the user is not subscribed, a paywall will be shown so they can subscribe.
  * 
  * @event social
  * @desc Triggered if the user is subscribed to the play pass.
  * @member {string} type The value `"GooglePlayPassLicensing"`
- * @member {string} event The value `"LICENSED"`.
+ * @member {string} event The value `"LICENSED"`
  * @event_end
  * 
  * @event social
  * @desc Triggered if the user is not subscribed to the play pass.
  * @member {string} type The value `"GooglePlayPassLicensing"`
- * @member {string} event The value `"NOT_LICENSED"`.
- * @member {boolean} value Wheather or not the paywall has been shown to the user.
+ * @member {string} event The value `"NOT_LICENSED"`
+ * @member {boolean} value Whether the paywall has been shown to the user or not
  * @event_end
  * 
  * @event social
  * @desc Triggered if there was an error checking for the license.
  * @member {string} type The value `"GooglePlayPassLicensing"`
- * @member {string} event The value `"ERROR"`.
- * @member {string} value The error message.
+ * @member {string} event The value `"ERROR"`
+ * @member {string} value The error message
  * @event_end
  * 
  * @func_end
@@ -35,6 +35,7 @@ function GooglePlayPassLicensing_CheckLicense() {}
  * 
  * By using this extension, you can verify whether a particular user has subscribed to Google Play Pass.
  * @section_func
+ * @desc The following function can be used to check a license:
  * @ref GooglePlayPassLicensing_CheckLicense
  * @section_end
  * @module_end
